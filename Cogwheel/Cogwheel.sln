@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cogwheel", "Cogwheel\Cogwheel.csproj", "{A730EDA0-8F76-475A-AA34-31F1CAFDA780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{3C3C092A-9C13-4C66-B283-F59A95C4349D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A730EDA0-8F76-475A-AA34-31F1CAFDA780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A730EDA0-8F76-475A-AA34-31F1CAFDA780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A730EDA0-8F76-475A-AA34-31F1CAFDA780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A730EDA0-8F76-475A-AA34-31F1CAFDA780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3C092A-9C13-4C66-B283-F59A95C4349D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3C092A-9C13-4C66-B283-F59A95C4349D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3C092A-9C13-4C66-B283-F59A95C4349D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3C092A-9C13-4C66-B283-F59A95C4349D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73208A4B-399A-4174-8DBB-882E719E4D64}
+	EndGlobalSection
+EndGlobal
